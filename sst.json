@@ -1,0 +1,5 @@
+{
+  "name": "sst-movie-picker",
+  "region": "eu-west-2",
+  "main": "stacks/index.ts"
+}
